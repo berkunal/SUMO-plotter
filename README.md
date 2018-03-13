@@ -1,5 +1,5 @@
 # SUMO-plotter
-This application plots graphs of CO2 emission and fuel consumption of various vehicles which simulated with SUMO traffic simulator. 
+This application plots graphs of CO2 emission and fuel consumption of various vehicles which simulated by SUMO traffic simulator. 
 ## Requirements
 - [SUMO](http://sumo.dlr.de/userdoc/Installing.html) installation
 - [Python](http://www.python.org/) (>= 2.7) installation
